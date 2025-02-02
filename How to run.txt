@@ -1,0 +1,9 @@
+Run this command on command line
+
+docker run -d -p 8000:8000 fastapi-app
+
+and then go to
+
+http://localhost:8000/docs
+
+and then click on appropriate apis and click try out.
